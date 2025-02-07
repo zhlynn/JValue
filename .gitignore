@@ -1,3 +1,5 @@
 .vscode
 *.dSYM
 test
+jvalue
+.build
